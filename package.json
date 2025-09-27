@@ -1,0 +1,21 @@
+{
+  "name": "shortmediacache-test-server",
+  "version": "1.0.0",
+  "description": "用于测试ShortMediaCache的简单Node服务器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "ShortMediaCache",
+    "test",
+    "server",
+    "media"
+  ],
+  "author": "",
+  "license": "MIT"
+}
